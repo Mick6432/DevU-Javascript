@@ -1,7 +1,7 @@
 // String Object Methods
 
 let first = 'Knowledge is power but enthusiasm pulls the switch';
-let second = 'Do or do not. There is no try.';
+let second = 'Do or do not. There is no try. (Yoda)';
 let third = '4,8,15,16,23,42';
 
 console.clear();  // Always clear screen.
